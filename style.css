@@ -178,7 +178,8 @@ height: 400px;
         
     }
     header {
-        height: 150px;
+        height: 250px;
+        padding-bottom:10px;
     }
 }
 @media (main-width: 600px) {
